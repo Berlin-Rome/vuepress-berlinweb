@@ -1,10 +1,19 @@
 ---
 home: true
-heroImage: /spider.png
-heroText: 我的主页
+logo: /logo.png
+name: Berlin Rome
+userImg: /user.png
+description: 有钱能使磨推鬼
 tagline: My homepage
 actionText: 技术文档 →
 actionLink: /tech/interview/
+navList: 
+- title: 首页
+  link: /
+- title: 技术文档
+  link: /
+- title: 个人中心
+  link: https://blog.csdn.net/Berlin_Rome
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
@@ -12,5 +21,5 @@ features:
   details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
 - title: 高性能
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: 南宫的个人博客
+footer: berlin的个人博客
 ---

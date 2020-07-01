@@ -7,8 +7,8 @@ module.exports = {
     logo: '/logo.png',  // 左上角logo
     nav: [ // 导航栏配置
       { text: '首页', link: '/' },
-      { text: '技术文档', link: '/tech/interview/' },
-      { text: '简书主页', link: 'https://www.jianshu.com/u/c455567c7f50' }
+      { text: '技术文档', link: '/tech/interview.vue' },
+      { text: '个人中心', link: 'https://blog.csdn.net/Berlin_Rome' }
     ],
     sidebar: 'auto', // 侧边栏配置
   }
